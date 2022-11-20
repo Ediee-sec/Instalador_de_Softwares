@@ -16,4 +16,4 @@
 
 2. *Informe o identificador do software encontrado no mapo ID*
 
-<img src = Imagens/img1.png>
+<img src = Imagens/img2.png>
