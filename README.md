@@ -1,6 +1,6 @@
 ## Instalador de Programas
 
-> **A funcionalidade do script é basicamente instalar softawares da internet por meio do pronpt de comando do windowns, eliminando assim aquelas desenas de etapas que você tem que passar em alguns sites para instalar um unico software.**
+> **A funcionalidade do script é basicamente instalar softawares da internet por meio do pronpt de comando do windowns, eliminando assim aquelas dezenas de etapas que você tem que passar em alguns sites para instalar um unico software.**
 
 *Ele baseicamente faz duas perguntas.*
 
